@@ -10,15 +10,15 @@ This is the documentation index for the products that related to VRChat Udon, di
 
 <div class="two-grid">
     <div>
-        <a href="/en-us/udon-rabbit/packages/analyzer/">Udon Rabbit Analyzer</a>
+        <a href="/docs.mochizuki.moe/en-us/udon-rabbit/packages/analyzer/">Udon Rabbit Analyzer</a>
     </div>
     <div>
-        <a href="/en-us/udon-rabbit/packages/interop/">Udon Rabbit Interop</a>
+        <a href="/docs.mochizuki.moe/en-us/udon-rabbit/packages/interop/">Udon Rabbit Interop</a>
     </div>
     <div>
-        <a href="/en-us/udon-rabbit/packages/object-fitter/">Udon Rabbit Object Fitter</a>
+        <a href="/docs.mochizuki.moe/en-us/udon-rabbit/packages/object-fitter/">Udon Rabbit Object Fitter</a>
     </div>
     <div>
-        <a href="/en-us/udon-rabbit/packages/synchronized-animator/">Udon Rabbit Synchronized Animator</a>
+        <a href="/docs.mochizuki.moe/en-us/udon-rabbit/packages/synchronized-animator/">Udon Rabbit Synchronized Animator</a>
     </div>
 </div>

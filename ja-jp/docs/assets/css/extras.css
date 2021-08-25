@@ -24,3 +24,13 @@
   color: var(--md-typeset-a-color);
   text-decoration: underline;
 }
+
+.md-header::after {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  content: "これはサポートされていない製品のアーカイブ・ドキュメントです（再アップロード）。制作者（natsuneko）にサポートを求めないでください。";
+  background-color: rgb(255 23 68 / 51%);
+  text-align: center;
+  font-size: .7rem;
+}

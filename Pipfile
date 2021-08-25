@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 mkdocs = "*"
+mkdocs-material-extensions = "*"
+fontawesome-markdown = "*"
+mkdocs-git-revision-date-localized-plugin = "*"
 
 [dev-packages]
 

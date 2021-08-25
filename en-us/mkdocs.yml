@@ -1,38 +1,36 @@
 # Project Information
-site_name: docs.mochizuki.moe
-site_url: https://docs.mochizuki.moe/en-us/
+site_name: docs.mochizuki.moe archive
+site_url: http://absolute-disappointment.github.io/docs.mochizuki.moe/en-us/
 site_author: Natsuneko
 
 # Preview Controls
 use_directory_urls: true
 
 # Git Repository
-repo_url: https://github.com/mika-f/docs.mochizuki.moe
-repo_name: mika-f/docs.mochizuki.moe
+repo_url: https://github.com/absolute-disappointment/docs.mochizuki.moe
+repo_name: absolute-disappointment/docs.mochizuki.moe
 edit_uri: edit/master/en-us/docs
 
 # Copyright
 copyright: Copyright &copy 2020-2021 Natsuneko (Natsuneko Laboratory)
 
 # Google Analytics
-google_analytics:
-  - G-YVSX103JDS
-  - auto
+# google_analytics:
+#   - G-YVSX103JDS
+#   - auto
 
 # Extra Resources
 extra:
   alternate:
     - name: English (US)
-      link: /en-us/
+      link: /docs.mochizuki.moe/en-us/
       lang: en
     - name: 日本語
-      link: /ja-jp/
+      link: /docs.mochizuki.moe/ja-jp/
       lang: ja
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/6jz
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/mika-f
+      link: https://github.com/absolute-disappointment
 
 extra_css:
   - assets/css/colors.css
@@ -192,9 +190,7 @@ nav:
         更新履歴: udon-rabbit/changelog.md
   - Archives: downloads/index.md
   - Announcements:
-      2021/04/30 - Privacy Policy: announcement/20210430-privacy-policy.md
       2021/04/22 - Stop Distribution: announcement/20210422-stop-distribution-of-all-products-in-natsuneko-laboratory.md
-  - Contact: contact.md
 
 # Theme Configuration
 theme:

@@ -10,9 +10,9 @@ title: Natsuneko Laboratory (VRChat)
 
 <div class="two-grid">
     <div>
-        <a href="/ja-jp/vrchat/asset-merger/">Asset Merger</a>
+        <a href="/docs.mochizuki.moe/ja-jp/vrchat/asset-merger/">Asset Merger</a>
     </div>
     <div>
-        <a href="/ja-jp/vrchat/sdk2-compat-view/">SDK2 Compatible Viewer</a>
+        <a href="/docs.mochizuki.moe/ja-jp/vrchat/sdk2-compat-view/">SDK2 Compatible Viewer</a>
     </div>
 </div>

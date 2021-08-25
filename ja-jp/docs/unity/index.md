@@ -10,27 +10,27 @@ title: Natsuneko Laboratory (Unity)
 
 <div class="two-grid">
     <div>
-        <a href="/ja-jp/unity/atlasization">Atlasization</a>
+        <a href="/docs.mochizuki.moe/ja-jp/unity/atlasization">Atlasization</a>
     </div>
     <div>
-        <a href="/ja-jp/unity/constraint-by-humanoid">Constraint by Humanoid</a>
+        <a href="/docs.mochizuki.moe/ja-jp/unity/constraint-by-humanoid">Constraint by Humanoid</a>
     </div>
     <div>
-        <a href="/ja-jp/unity/particle-system/packages/001-monochrome-particle-ring">Particles - Monochrome Particle Ring</a>
+        <a href="/docs.mochizuki.moe/ja-jp/unity/particle-system/packages/001-monochrome-particle-ring">Particles - Monochrome Particle Ring</a>
     </div>
     <div>
-        <a href="/ja-jp/unity/particle-system/packages/002-triangle-touch-effect">Particles - Triangle Touch Effect</a>
+        <a href="/docs.mochizuki.moe/ja-jp/unity/particle-system/packages/002-triangle-touch-effect">Particles - Triangle Touch Effect</a>
     </div>
     <div>
-        <a href="/ja-jp/unity/particle-system/packages/003-fuwa-fuwa-music-note">Particles - Fuwa-fuwa Music Note</a>
+        <a href="/docs.mochizuki.moe/ja-jp/unity/particle-system/packages/003-fuwa-fuwa-music-note">Particles - Fuwa-fuwa Music Note</a>
     </div>
     <div>
-        <a href="/ja-jp/unity/sakura-shader">Sakura Shader</a>
+        <a href="/docs.mochizuki.moe/ja-jp/unity/sakura-shader">Sakura Shader</a>
     </div>
     <div>
-        <a href="/ja-jp/unity/u-projection">uProjection</a>
+        <a href="/docs.mochizuki.moe/ja-jp/unity/u-projection">uProjection</a>
     </div>
     <div>
-        <a href="/ja-jp/unity/wireframe-shader">Wireframe Shader</a>
+        <a href="/docs.mochizuki.moe/ja-jp/unity/wireframe-shader">Wireframe Shader</a>
     </div>
 </div>

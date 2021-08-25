@@ -1,5 +1,5 @@
-#!/bin/bash
-set -euo pipefail
+#!/usr/bin/env bash
+set -ex
 
 export LC_ALL=C.UTF-8
 export LANG=C.UTF-8
