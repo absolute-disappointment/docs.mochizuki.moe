@@ -30,7 +30,7 @@ extra:
       lang: ja
   social:
     - icon: fontawesome/brands/github-alt
-      link: habsolute-disappointment
+      link: absolute-disappointment
 
 extra_css:
   - assets/css/colors.css
