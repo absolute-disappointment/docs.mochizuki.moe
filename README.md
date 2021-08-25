@@ -1,6 +1,10 @@
 # docs.mochizuki.moe
 
-https://docs.mochizuki.moe repository.  
+docs.mochizuki.moe archive. Access it here:
+
+English: https://absolute-disappointment.github.io/docs.mochizuki.moe/en-us/
+日本語: https://absolute-disappointment.github.io/docs.mochizuki.moe/ja-jp/
+
 This website is generated/rendered by MkDocs.
 
 ## Development
@@ -12,11 +16,20 @@ This website is generated/rendered by MkDocs.
 ### Setup
 
 ```bash
-$ pip3 install -r requirements.txt
+$ pipenv install
 ```
 
 ### Start Server
 
 ```bash
-$ mkdocs serve
+$ pipenv run mkdocs serve
 ```
+
+## Deploy to Github pages
+
+```
+$ pipenv run ./build.sh
+$ ./deploy.sh
+```
+
+Repo includes [git-directory-deploy](https://github.com/X1011/git-directory-deploy) under a 3-clause BSD license.
