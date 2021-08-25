@@ -24,3 +24,13 @@
   color: var(--md-typeset-a-color);
   text-decoration: underline;
 }
+
+.md-header::after {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  content: "This is an archived copy of Natsuneko's docs for reference purposes only. These products are deprecated and unsupported, please do not contact Natsuneko for support.";
+  background-color: rgb(255 23 68 / 51%);
+  text-align: center;
+  font-size: .7rem;
+}
