@@ -15,9 +15,9 @@ edit_uri: edit/master/ja-jp/docs
 copyright: Copyright &copy 2020-2021 Natsuneko (Natsuneko Laboratory)
 
 # Google Analytics
-google_analytics:
-  - G-YVSX103JDS
-  - auto
+# google_analytics:
+#  - G-YVSX103JDS
+#  - auto
 
 # Extra Resources
 extra:
@@ -30,7 +30,7 @@ extra:
       lang: ja
   social:
     - icon: fontawesome/brands/github-alt
-      link: absolute-disappointment
+      link: https://github.com/absolute-disappointment/
 
 extra_css:
   - assets/css/colors.css
