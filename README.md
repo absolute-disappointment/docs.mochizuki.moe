@@ -2,8 +2,8 @@
 
 docs.mochizuki.moe archive. Access it here:
 
-English: https://absolute-disappointment.github.io/docs.mochizuki.moe/en-us/
-日本語: https://absolute-disappointment.github.io/docs.mochizuki.moe/ja-jp/
+English: https://catfag.github.io/docs.mochizuki.moe/en-us/
+日本語: https://catfag.github.io/docs.mochizuki.moe/ja-jp/
 
 This website is generated/rendered by MkDocs.
 
